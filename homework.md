@@ -27,7 +27,7 @@ Then in the marvel database type: SELECT * FROM movies;
 
 >marvel=# SELECT * FROM movies;
 
- id |                title                | year | show_time 
+ -id -                title                - year - show_time 
 ----+-------------------------------------+------+-----------
   1 | Iron Man                            | 2008 | 21:00
   2 | The Incredible Hulk                 | 2008 | 14:20
